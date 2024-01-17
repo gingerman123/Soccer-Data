@@ -1,21 +1,21 @@
-Team,Rank,Point,Score,Lose_score,Balance,AverageAge
-AFC Bournemouth,14,45,56,70,-71.40m,26.2
-Arsenal FC,5,70,73,51,-71.05m,26.4
-Brighton & Hove Albion,17,36,35,60,-77.00m,27.2
-Burnley FC,15,40,45,68,-25.00m,27.9
-Cardiff City,18,34,34,69,-51.20m,27.3
-Chelsea FC,3,72,63,39,-125.55m,27.1
-Crystal Palace,12,49,51,53,-11.50m,27.2
-Everton FC,8,54,54,46,-71.15m,25.5
-Fulham FC,19,26,34,81,-111.15m,25.8
-Huddersfield Town,20,16,22,76,-38.37m,25.9
-Leicester City,9,52,51,48,-18.80m,25.9
-Liverpool FC,2,97,89,22,-140.88m,26.2
-Manchester City,1,98,95,23,-20.99m,26.4
-Manchester United,6,66,65,54,-52.15m,26.0
-Newcastle United,13,45,42,48,-8.70m,26.6
-Southampton FC,16,39,45,65,-36.15m,25.4
-Tottenham Hotspur,4,71,67,39,5.35m,26.6
-Watford FC,11,50,52,59,21.74m,27.9
-West Ham United,10,52,52,55,-87.14m,27.7
-Wolverhampton Wanderers,7,57,47,46,-89.45m,25.4
+,Unnamed: 0,Team,Rank,Point,Score,Lose_score,Balance(m),AverageAge,season
+0,0,AFC Bournemouth,14,45,56,70,-71.4,26.2,2018-2019
+1,1,Arsenal FC,5,70,73,51,-71.05,26.4,2018-2019
+2,2,Brighton & Hove Albion,17,36,35,60,-77.0,27.2,2018-2019
+3,3,Burnley FC,15,40,45,68,-25.0,27.9,2018-2019
+4,4,Cardiff City,18,34,34,69,-51.2,27.3,2018-2019
+5,5,Chelsea FC,3,72,63,39,-125.55,27.1,2018-2019
+6,6,Crystal Palace,12,49,51,53,-11.5,27.2,2018-2019
+7,7,Everton FC,8,54,54,46,-71.15,25.5,2018-2019
+8,8,Fulham FC,19,26,34,81,-111.15,25.8,2018-2019
+9,9,Huddersfield Town,20,16,22,76,-38.37,25.9,2018-2019
+10,10,Leicester City,9,52,51,48,-18.8,25.9,2018-2019
+11,11,Liverpool FC,2,97,89,22,-140.88,26.2,2018-2019
+12,12,Manchester City,1,98,95,23,-20.99,26.4,2018-2019
+13,13,Manchester United,6,66,65,54,-52.15,26.0,2018-2019
+14,14,Newcastle United,13,45,42,48,-8.7,26.6,2018-2019
+15,15,Southampton FC,16,39,45,65,-36.15,25.4,2018-2019
+16,16,Tottenham Hotspur,4,71,67,39,5.35,26.6,2018-2019
+17,17,Watford FC,11,50,52,59,21.74,27.9,2018-2019
+18,18,West Ham United,10,52,52,55,-87.14,27.7,2018-2019
+19,19,Wolverhampton Wanderers,7,57,47,46,-89.45,25.4,2018-2019
